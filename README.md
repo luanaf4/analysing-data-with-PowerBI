@@ -15,7 +15,7 @@ Este projeto utiliza dados do Banco Mundial, uma fonte confiável e pública de 
 
 A classificação dos países é baseada no relatório "World Economic Situation and Prospects" das Nações Unidas. Esta classificação é atualizada anualmente e pode ser encontrada em:
 
-[United Nations - World Economic Situation and Prospects (WESP)](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/WESP2022_ANNEX.pdf)
+[United Nations - World Economic Situation and Prospects (WESP)](https://www.un.org/development/desa/dpad/publication/world-economic-situation-and-prospects-as-of-mid-2024/)
 
 Para os propósitos deste estudo:
 - Países desenvolvidos correspondem às economias desenvolvidas conforme classificação da ONU.
