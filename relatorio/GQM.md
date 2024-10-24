@@ -11,7 +11,7 @@ Comparar e analisar a evolução do acesso à internet entre países desenvolvid
 - Diferença na porcentagem de usuários entre 2000 e 2020 para cada grupo
 - Comparação das taxas de crescimento entre os grupos
 
-### Q3: Como a evolução do PIB per capita se relacionou com o crescimento do acesso à internet nos três grupos durante o período?
+### Q2: Como a evolução do PIB per capita se relacionou com o crescimento do acesso à internet nos três grupos durante o período?
 #### Métricas:
 - Crescimento do PIB per capita de 2000 a 2020 para cada grupo
 - Taxa de crescimento anual do PIB per capita para cada grupo
