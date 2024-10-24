@@ -41,6 +41,39 @@ Nossa análise inclui 15 países, divididos em três categorias:
 
 **Justificativa:** Seguem a classificação da ONU como "Least Developed Countries" (LDCs), enfrentando desafios significativos em termos de infraestrutura e desenvolvimento econômico.
 
-## Script de Coleta de Dados
+## Instruções de utilização
 
-O script `fetchWorldBankData()` foi desenvolvido para coletar dados do Banco Mundial para os países e indicadores selecionados. O script processa os dados país por país e ano por ano, armazenando-os em uma planilha do Google Sheets.
+Este repositório contém scripts para coletar e analisar dados.
+
+### Passo 1: Configuração Inicial
+1. Crie uma nova planilha no Google Sheets
+2. Acesse o editor de scripts:
+   - Clique em "Extensões" no menu superior
+   - Selecione "Apps Script"
+
+### Passo 2: Configuração dos Scripts
+1. No editor de Apps Script, você precisará criar dois arquivos:
+   - `WorldBankDataFetcher.gs`: Para coletar dados do Banco Mundial
+   - `calculateMetrics.gs`: Para calcular as métricas de análise
+
+2. Copie o código do `fetchWorldBankData()` para o arquivo `WorldBankDataFetcher.gs`
+3. Copie o código do `calculateMetrics()` e funções relacionadas para o arquivo `calculateMetrics.gs`
+
+### Passo 3: Coleta de Dados
+1. No editor de Apps Script:
+   - Selecione a função `fetchWorldBankData`
+   - Clique no botão "Executar"
+2. Na primeira execução:
+   - Autorize o script a acessar sua planilha
+   - Aceite as permissões solicitadas
+3. Aguarde a conclusão da coleta de dados
+   - Uma nova aba chamada "Internet Access Data" será criada
+   - Os dados serão preenchidos automaticamente
+
+### Passo 4: Cálculo das Métricas
+1. Após a coleta dos dados:
+   - Selecione a função `calculateMetrics`
+   - Clique no botão "Executar"
+2. Aguarde o processamento
+   - Uma nova aba chamada "Metrics Results" será criada
+   - As métricas calculadas serão preenchidas automaticamente
