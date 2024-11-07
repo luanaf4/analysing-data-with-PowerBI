@@ -33,37 +33,60 @@ Comparar e analisar a evolução do acesso à internet entre países desenvolvid
 
 # Resultados
 
-#### Análise Comparativa das Taxas de Crescimento da Internet e do PIB
+#### Análise Comparativa das Taxas de Crescimento da Internet
 
-1. **Países Desenvolvidos**:
-  - Taxa Média de Adoção: 5,00%
-  - Crescimento Total da Adoção: 5646,39%
-  - Crescimento Anual Médio: 5,00%
-  - Desvio da Taxa de Crescimento: 6,63%
-  - Crescimento do PIB: 15,07%
-  - Crescimento da Internet: 155,63%
-  - Correlação PIB-Internet: 24,44%
+**Países Desenvolvidos**:
 
-2. **Países em Desenvolvimento**:
-  - Taxa Média de Adoção: 19,16%
-  - Crescimento Total da Adoção: 6176,73%
-  - Crescimento Anual Médio: 19,16%
-  - Desvio da Taxa de Crescimento: 15,93%
-  - Crescimento do PIB: 57,99%
-  - Crescimento da Internet: 2762,14%
-  - Correlação PIB-Internet: 68,44%
+- Usuários em 2020: 92,75%
+- Crescimento Total: 155,63%
+- Crescimento Anual Médio: 5,00%
 
-3. **Países Menos Desenvolvidos**:
-  - Taxa Média de Adoção: 31,93%
-  - Crescimento Total da Adoção: 2446,95%
-  - Crescimento Anual Médio: 31,93%
-  - Desvio da Taxa de Crescimento: 17,71%
-  - Crescimento do PIB: 113,71%
-  - Crescimento da Internet: 21394,56%
-  - Correlação PIB-Internet: 71,71%
+**Países em Desenvolvimento**:
 
-#### Observações:
-- Os países menos desenvolvidos apresentam a maior taxa média de adoção e o maior crescimento da internet, mas também o maior desvio na taxa de crescimento.
-- A correlação entre o crescimento do PIB e o crescimento da internet é mais forte nos países menos desenvolvidos, sugerindo que o aumento do acesso à internet pode ter um impacto mais significativo no crescimento econômico desses países.
-- Os países desenvolvidos têm a menor taxa média de adoção e crescimento da internet, mas uma correlação PIB-Internet relativamente baixa, indicando que o impacto do crescimento da internet no PIB pode ser menos pronunciado nesses países.
-- Países desenvolvidos apresentam um crescimento e adoção mais estabilizados, com menores taxas de crescimento e variação, provavelmente devido à maturidade econômica e tecnológica.
+- Usuários em 2020: 64,00%
+- Crescimento Total: 2.762,14%
+- Crescimento Anual Médio: 19,16%
+
+**Países Menos Desenvolvidos**:
+
+- Usuários em 2020: 24,58%
+- Crescimento Total: 21.394,56%
+- Crescimento Anual Médio: 31,93%
+
+#### Análise Comparativa do PIB
+
+**Países Desenvolvidos**:
+
+- PIB per capita 2020: $44.041,12
+- Crescimento Total do PIB: 15,07%
+- Crescimento Anual do PIB: 0,73%
+- Correlação PIB-Internet: 89,78%
+
+**Países em Desenvolvimento**:
+
+- PIB per capita 2020: $6.697,49
+- Crescimento Total do PIB: 57,99%
+- Crescimento Anual do PIB: 2,34%
+- Correlação PIB-Internet: 97,21%
+
+**Países Menos Desenvolvidos**:
+
+- PIB per capita 2020: $1.074,06
+- Crescimento Total do PIB: 113,71%
+- Crescimento Anual do PIB: 3,88%
+- Correlação PIB-Internet: 95,18%
+
+# Discussão
+
+A análise revelou padrões significativos na evolução do acesso à internet e sua relação com o desenvolvimento econômico:
+
+## Padrões de Adoção: 
+  - Os países menos desenvolvidos apresentaram o maior crescimento percentual, embora partindo de uma base muito baixa. Os países desenvolvidos, apesar do menor crescimento percentual, mantêm a maior taxa de penetração.
+## Correlação Econômica: 
+  - Todos os grupos apresentaram forte correlação positiva entre crescimento do PIB e adoção da internet, com destaque para os países em desenvolvimento (97,21%).
+## Disparidade Digital: 
+  - Apesar do crescimento acelerado nos países menos desenvolvidos, ainda existe uma significativa disparidade no acesso à internet entre os grupos.
+
+# Conclusão
+
+O estudo demonstra que, embora tenha havido um progresso significativo na redução da exclusão digital, persistem disparidades importantes entre os grupos de países. As fortes correlações entre crescimento econômico e adoção da internet sugerem que investimentos em infraestrutura digital podem ser cruciais para o desenvolvimento econômico, especialmente nas nações menos desenvolvidas.
