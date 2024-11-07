@@ -77,3 +77,6 @@ Este repositório contém scripts para coletar e analisar dados.
 2. Aguarde o processamento
    - Uma nova aba chamada "Metrics Results" será criada
    - As métricas calculadas serão preenchidas automaticamente
+  
+## Links:
+   - [Looker Studio](https://lookerstudio.google.com/reporting/d04c3d1c-4982-4ddd-a2b2-a6729447acd5/page/p_wpim8mjqmd)
